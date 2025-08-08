@@ -1,4 +1,6 @@
-Public Excerpt Variation: [](https://docs.google.com/document/d/1DLkZOadaYEDxtv16eB9k8zr8-bioGLNA9NkMvI6hAwY/edit?usp=sharing)
+Public Excerpt Variation:
+[
+](https://docs.google.com/document/d/e/2PACX-1vRzQouew2BQeSGLyg_5-SQt-KPzPNotgDcGfpveHqAZExxsdxLUc7Vs31FMncO3f4MVZkJKNJctdNfl/pub)
 Recursive Fecund Cosmology (RFC) - Summarized Excerpt
 
 Q: Is this universe a simulation?
