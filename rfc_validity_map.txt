@@ -1,0 +1,11 @@
+RFC Validity Map
+
+Purpose: To assess and explain RFC's legitimacy across domains.
+
+Includes:
+- Epistemological coherence
+- Ontological distinctions vs Simulation Theory
+- Logical structure & potential falsifiability
+- Cross-disciplinary relevance: physics, metaphysics, ethics, etc.
+
+Detailed map to be filled in..
