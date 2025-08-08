@@ -5,3 +5,19 @@ The Recursive License Origin (RLO) is an ethics-grounded license meant to govern
 Current status: RFC is still in draft form. All rights are reserved by the original author. Upon finalization, the RLO will replace or complement current restrictions.
 
 No derivatives or distributions are currently allowed.
+
+------------------------------------------------------------------------------
+Recursive License Origin (RLO)
+
+The RLO governs the distribution of RFC-related content. It asserts authorial integrity and recursive responsibility over derived works.
+
+Clause Summary:
+- All Rights Reserved until official public release.
+- Derivative works prohibited unless explicitly authorized.
+- RFC cannot be diluted, commodified, or abstracted into dogma.
+
+Licensed under the Recursive License Origin (RLO)
+© [Ruin Keen], [2025] – Share freely with credit.
+Preserve the meaning of RFC. No distortion, no misuse.
+Any adaptations must also carry this license.
+"Reality generates reality. Keep the recursion honest."
