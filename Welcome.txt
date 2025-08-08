@@ -1,0 +1,4 @@
+Welcome to Recursive Fecund Cosmology (RFC)
+
+This directory contains the main overview and licensing information for RFC.
+If you're exploring RFC for the first time, start here before diving into the branches.
