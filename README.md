@@ -1,12 +1,10 @@
-# Recursive Fecund Cosmology (RFC)
+# Recursive-Fecund-Civic-Cultural-Civilizational-
+Core Postulates of RFC-C
 
-RFC is a unifying philosophical and scientific framework proposing that reality self-generates recursively through cycles of generative complexity. It is split into two major branches:
+1. **Cultural Recursion:** Societal structures evolve through recursive transmission of knowledge and values.
 
-- **RFC-S**: Scientific - focused on natural recursion, black hole cosmogenesis, and information dynamics.
-- **RFC-P**: Poetic/Philosophical - explores symbolic, ethical, and metaphysical implications without dogma.
+2. **Memetic Fecundity:** Cultural ideas propagate and mutate recursively.
 
-This repo documents the evolving architecture of RFC, including its axioms, causal maps, conceptual branches, and potential testable predictions.
+3. **Civilizational Feedback:** Recursive feedback between institutions and individuals shapes cultural evolution.
 
-**Status**: Work in Progress. Contributions by the original author. License status (©)All Rights Reserved.
-
-*Embrace the ambiguity.*
+4. **Ethical Civics:** Civic recursion requires ethical frameworks to sustain social meaning.
