@@ -1,4 +1,4 @@
-# Recursive-Fecund-Philosophy-Branch-
+# Recursive-Fecund-Philosophy-Poetic-
 Core Postulates of RFC-P
 
 1. **Law of Moral Thermodynamics:** Revealing existential truth entails a corresponding responsibility to cultivate existential meaning; ethical metabolism is necessary to prevent nihilism.
