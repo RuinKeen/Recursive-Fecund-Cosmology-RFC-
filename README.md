@@ -1,4 +1,4 @@
-# Recursive-Fecund-Biological-Evolutionary-
+# Recursive-Fecund-Behavioral-Psychological-
 Core Postulates of RFC-B
 
 1. **Behavioral Recursion:** Psychological patterns arise from recursive feedback within cognitive and social systems.
