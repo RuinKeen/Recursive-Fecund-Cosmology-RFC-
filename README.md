@@ -1,2 +1,10 @@
-# Recursive-Fecund-Cosmology-RFC-
-A brand-new cosmological framework incorporating multiple branches of insights, with certain aspects comparative to Nick Bostrom's Simulation Theory. An intriguing framework tackling issues of ambiguity across many fields; philosophy, morality, information systems, science, biology, etc.
+# Recursive-Fecund-Science-
+Core Axioms of RFC-S
+
+1. **Recursive Fecundity:** Reality is fundamentally recursive, generating new structures through infinite, self-similar fecundity.
+
+2. **Emergent Generativity:** Complex systems emerge from iterative, self-organizing recursive units across multiple scales.
+
+3. **Causal Recursion:** Cause-effect relationships operate recursively across nested dimensions and scales.
+
+4. **Existential Grounding:** Scientific inquiry grounds the recursive framework in observable, testable phenomena.
