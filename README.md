@@ -1,12 +1,10 @@
-# Recursive Fecund Cosmology (RFC)
+# Recursive-Fecund-Cognitive-Consciousness-
+Core Postulates of RFC-Sc
 
-RFC is a unifying philosophical and scientific framework proposing that reality self-generates recursively through cycles of generative complexity. It is split into two major branches:
+1. **Consciousness as Recursive Process:** Conscious experience arises from recursive information processing within neural and cognitive systems.
 
-- **RFC-S**: Scientific - focused on natural recursion, black hole cosmogenesis, and information dynamics.
-- **RFC-P**: Poetic/Philosophical - explores symbolic, ethical, and metaphysical implications without dogma.
+2. **Semantic Recursion:** Meaning and symbolic representation are recursively generated and sustained.
 
-This repo documents the evolving architecture of RFC, including its axioms, causal maps, conceptual branches, and potential testable predictions.
+3. **Self-Referential Awareness:** Recursive self-modeling is fundamental to consciousness.
 
-**Status**: Work in Progress. Contributions by the original author. License status (©)All Rights Reserved.
-
-*Embrace the ambiguity.*
+4. **Adaptive Feedback:** Cognitive recursion enables adaptive learning and behavior.
