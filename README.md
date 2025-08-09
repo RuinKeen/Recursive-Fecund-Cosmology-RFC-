@@ -1,5 +1,5 @@
 # Recursive-Fecund-Biological-Evolutionary-
-Core Axioms of RFC-Sb
+Core Postulates of RFC-Sb
 
 1. **Biological Recursion:** Life emerges from recursive processes of self-organization and evolutionary adaptation.
 
