@@ -1,12 +1,10 @@
-# Recursive Fecund Cosmology (RFC)
+# Recursive-Fecund-Artistic-Expressive-
+Core Postulates of RFC-A
 
-RFC is a unifying philosophical and scientific framework proposing that reality self-generates recursively through cycles of generative complexity. It is split into two major branches:
+1. **Artistic Recursion:** Creative expression arises from recursive symbolic generation and transformation.
 
-- **RFC-S**: Scientific - focused on natural recursion, black hole cosmogenesis, and information dynamics.
-- **RFC-P**: Poetic/Philosophical - explores symbolic, ethical, and metaphysical implications without dogma.
+2. **Aesthetic Emergence:** Recursive patterns in art produce emergent aesthetic meaning.
 
-This repo documents the evolving architecture of RFC, including its axioms, causal maps, conceptual branches, and potential testable predictions.
+3. **Cultural Resonance:** Artistic recursion interacts dynamically with cultural and cognitive recursion.
 
-**Status**: Work in Progress. Contributions by the original author. License status (©)All Rights Reserved.
-
-*Embrace the ambiguity.*
+4. **Expressive Freedom:** Recursive art sustains ethical and existential meaning through innovation and reinterpretation.
