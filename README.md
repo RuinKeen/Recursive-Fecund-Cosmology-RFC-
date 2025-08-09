@@ -1,10 +1,10 @@
 # Recursive-Fecund-Biological-Evolutionary-
-Core Postulates of RFC-Sb
+Core Postulates of RFC-B
 
-1. **Biological Recursion:** Life emerges from recursive processes of self-organization and evolutionary adaptation.
+1. **Behavioral Recursion:** Psychological patterns arise from recursive feedback within cognitive and social systems.
 
-2. **Metabolic Continuity:** Biological systems maintain recursive energy flows sustaining life cycles.
+2. **Emotional Metabolism:** Recursive emotional processing sustains psychological meaning.
 
-3. **Evolutionary Fecundity:** Genetic and memetic information recursively evolves through selection and variation.
+3. **Identity Recursion:** Recursive self-concepts shape behavior and experience.
 
-4. **Embodied Recursion:** Biological recursion underlies cognitive and behavioral emergence.
+4. **Adaptive Plasticity:** Recursive behavioral feedback enables learning and adaptation.
