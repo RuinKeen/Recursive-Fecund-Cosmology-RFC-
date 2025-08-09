@@ -1,2 +1,3 @@
 # Recursive-Fecund-Cosmology-RFC-
-A brand-new cosmological framework incorporating multiple branches of insights, with certain aspects comparative to Nick Bostrom's Simulation Theory. An intriguing framework tackling issues of ambiguity across many fields; philosophy, morality, information systems, science, biology, etc.
+Current map incorporating all of the RFC branches:
+<img width="2440" height="1686" alt="image" src="https://github.com/user-attachments/assets/4f53e8fb-d974-47e7-8619-08a4eeb4db43" />
