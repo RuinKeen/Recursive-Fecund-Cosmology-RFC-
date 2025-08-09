@@ -1,4 +1,4 @@
-# Recursive-Fecund-Science-Branch-
+# Recursive-Fecund-Scientific-Core-
 Core Postulates of RFC-S
 
 1. **Recursive Fecundity:** Reality is fundamentally recursive, generating new structures through infinite, self-similar fecundity.
